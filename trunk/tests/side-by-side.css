@@ -1,0 +1,60 @@
+body
+{
+	margin: 0;
+	border: 0;
+	padding: 0;
+	font-family: Georgia;
+}
+
+#normal, #sistr
+{
+	border: 1px #ccc solid;
+	width: 500px;
+	padding: 25px;
+	margin: 25px;
+	float: left;
+}
+
+h1
+{
+	font-family: "Colwell|side-by-side-fonts.zip", Verdana;
+	margin: 0;
+}
+
+h2
+{
+	font-family: "FontCop|side-by-side-fonts.zip", Verdana;
+}
+
+.sampleLink
+{
+	font-family: "Erinal|side-by-side-fonts.zip", Verdana;
+}
+
+.imageback
+{
+	font-family: "Scriptina|side-by-side-fonts.zip", Sans-Serif;
+	background: url('http://farm1.static.flickr.com/85/254575641_ec700bec2c.jpg?v=0');
+	width: 300px;
+	height: 233px;
+	color: #ffffff;
+	padding: 50px 50px 50px 150px;
+	font-size: 40px;
+	line-height: 3em;
+}
+
+.sistr-replace
+{
+
+}
+
+#fontCredit
+{
+	clear: both;
+}
+
+#normal p, #sistr p
+{
+	font-family: Arial, Helvetica;
+	font-size: 16px;
+}
