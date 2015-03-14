@@ -1,0 +1,1 @@
+Allows you to render text elements in an HTML page using the Silverlight plugin -- similar to the sIFR project, which uses Flash. Created by [Filipe Fortes](http://fortes.com)
